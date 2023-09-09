@@ -19,7 +19,7 @@
   * 更多插件支持，敬请期待。也可直接向我们提交插件需求哦  
 
 - **项目地址**   
-1、怎么获取智增增的key和url？加入下面的微信群，找群主获取。      
+1、xxx。      
 2、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：    
 ![chatgpt-plugin-key交流群1](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/f8cffce0-6ae5-46c9-abad-e74a8a819326)
 
