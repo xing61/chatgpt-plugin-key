@@ -27,6 +27,6 @@
 - **典型用法**    
 典型用法：<br>
 1、在设置openai key的地方，替换为：智增增拿到的key <br>
-2、在设置openai url的地方，替换为：`http://flag.smarttrot.com/index.php/api/v1`,  <br>
+2、在设置openai url的地方，替换为：`http://flag.smarttrot.com/index.php/api/v1` <br>
 ![微信截图_20230908122923](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/2d61f7d8-4551-4f4f-a8c8-4e85de0087d6)
 
