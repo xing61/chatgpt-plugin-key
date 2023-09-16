@@ -1,4 +1,4 @@
-# chatgpt-plugin-key，专注支持ChatGPT的插件
+# chatgpt-plugin-key，专注国内访问ChatGPT插件
 
 #### 介绍
 不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
