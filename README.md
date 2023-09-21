@@ -15,9 +15,12 @@
   * 不用买openai的账号，不用美元的银行卡。 
   * 无需代理即可访问，没有任何的阻拦。  
   * 支持GPT-3.5，GPT-4    
-  * 最广泛的插件支持能力：Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等各类大模型插件    
+  * 最广泛的插件支持能力：Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT，chatgpt-next-web等各类大模型插件  
   * 更多插件支持，敬请期待。也可直接向我们提交插件需求哦  
 
+- **注意事项**  
+  * 不是api，不是给写代码的用的，是给普通使用各类插件的用户使用的，如果希望通过代码调用api，可以看我们这个项目：https://github.com/xing61/xiaoyi-robot
+   
 - **项目地址**   
 1、目前支持移动端访问，扫描下面微信公众号：小一机器人，点击菜单“我是用户”》“Chat的插件”。从这里复制出key和url即可                  
  ![小一机器人-公众号二维码-small](https://github.com/xing61/xiaoyi-robot/assets/38256442/34775bf9-8a23-4bc8-8303-12ee3b1c1425)。        
