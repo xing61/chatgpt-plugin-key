@@ -49,9 +49,11 @@
   * 第2步：用手机号登录智增增，复制出key和url
   * 第3步：打开插件，将上一步复制的key和url填入，即可正常使用。<br><br>
 下面是截图示意：第1、2步示意：<br>
-![输入图片说明](img/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20230915123515.jpg)<br>
+![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/2b488dca-e81f-4281-b074-206d566c9ed9)
+<br>
 第3步，以chatgpt-next-web这个插件的配置截图示意：<br>
-![输入图片说明](img/chatgpt-next-web3.png)<br>
+![chatgpt-next-web3](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/dcdaf87b-40a7-438d-b2da-cec931e624ce)
+<br>
 
 - **为什么有的插件我按说明设置了也不行？**   
  这里有个点要注意，大部分的插件设置的主机地址都是能复制得到的：`https://plugin.smarttrot.com/index.php/api`, <br>
