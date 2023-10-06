@@ -40,4 +40,34 @@
 有的插件可能要写全是：`https://plugin.smarttrot.com/index.php/api/v1/chat/completions` <br>
 ![chatbox2](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/3d99293d-45a0-4130-b12a-701f0bb79f3c)
 
+# 智增增-插件模式-配置说明
+
+#### 问：怎么使用？
+
+- **简单几步搞定**  
+  * 第1步：扫描下面的二维码，关注微信公众号：小一机器人，点击菜单“我是用户”》“Chat的插件”。
+  * 第2步：用手机号登录智增增，复制出key和url
+  * 第3步：打开插件，将上一步复制的key和url填入，即可正常使用。<br><br>
+下面是截图示意：第1、2步示意：<br>
+![输入图片说明](img/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20230915123515.jpg)<br>
+第3步，以chatgpt-next-web这个插件的配置截图示意：<br>
+![输入图片说明](img/chatgpt-next-web3.png)<br>
+
+- **为什么有的插件我按说明设置了也不行？**   
+ 这里有个点要注意，大部分的插件设置的主机地址都是能复制得到的：`https://plugin.smarttrot.com/index.php/api`, <br>
+但如果复制不行，可以试试这几个：`https://plugin.smarttrot.com/index.php/api/v1`, <br>
+或者可以试试使用完整的地址：`https://plugin.smarttrot.com/index.php/api/v1/chat/completions`, <br>
+一般来说，这几个地址总有能成功的。如果还是不行，请联系我们来支持。 <br>
+
+- **公司官网在哪里？**   
+ 智增增是北京思码创特科技有限公司旗下品牌 ，专注打造企业从研发到营销的一站式AI赋能平台，致力于让AI真正成为企业的生产力工具。<br>
+ 官网地址：http://zhizengzeng.com/ <br>
+
+- **有没有示例插件的访问地址？**   
+ 1、chatgpt-next-web，最好下载安装一个软件包来访问，这里是下载地址（请选择适合你的电脑操作系统的版本）： https://gitee.com/smarttrot/chatgpt-plugin-key/tree/main/chat-next-web <br>
+当然也可以直接使用网页版：https://nb.nextweb.fun/#/chat <br>
+ 2、chatbox，最好下载安装一个软件包来访问，这是下载地址：https://chatboxai.app/zh#download <br>
+
+- **不会配置怎么办？**   
+ 在上面的公众号里面有客服的二维码，可以添加客服，客服手把手教你配置<br>
 
