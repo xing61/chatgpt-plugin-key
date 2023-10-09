@@ -21,7 +21,7 @@
 - **注意事项**  
   * 不是api，不是给写代码的用的，是给普通使用各类插件的用户使用的，如果希望通过代码调用api，可以看我们这个项目：https://github.com/xing61/xiaoyi-robot
    
-- **项目地址**   
+- **产品地址**   
 1、目前支持移动端访问，扫描下面微信公众号：小一机器人，点击菜单“我是用户”》“Chat的插件”。从这里复制出key和url即可                  
  ![小一机器人-公众号二维码-small](https://github.com/xing61/xiaoyi-robot/assets/38256442/34775bf9-8a23-4bc8-8303-12ee3b1c1425)。        
 2、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：          
@@ -29,7 +29,6 @@
           
  
 - **典型用法**    
-典型用法：<br>
 先复制出智增增的key和url：     
 ![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/62bbbe95-ed52-42e8-afbd-9bc5965fad3f)    
 
@@ -39,37 +38,3 @@
 这里有个点要注意，有的插件可能是：`https://plugin.smarttrot.com/index.php/api` ，（即将url后面的v1去掉，可以自己试一下）<br>
 有的插件可能要写全是：`https://plugin.smarttrot.com/index.php/api/v1/chat/completions` <br>
 ![chatbox2](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/3d99293d-45a0-4130-b12a-701f0bb79f3c)
-
-# 智增增-插件模式-配置说明
-
-#### 问：怎么使用？
-
-- **简单几步搞定**  
-  * 第1步：扫描下面的二维码，关注微信公众号：小一机器人，点击菜单“我是用户”》“Chat的插件”。
-  * 第2步：用手机号登录智增增，复制出key和url
-  * 第3步：打开插件，将上一步复制的key和url填入，即可正常使用。<br><br>
-下面是截图示意：第1、2步示意：<br>
-![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/2b488dca-e81f-4281-b074-206d566c9ed9)
-<br>
-第3步，以chatgpt-next-web这个插件的配置截图示意：<br>
-![chatgpt-next-web3](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/dcdaf87b-40a7-438d-b2da-cec931e624ce)
-<br>
-
-- **为什么有的插件我按说明设置了也不行？**   
- 这里有个点要注意，大部分的插件设置的主机地址都是能复制得到的：`https://plugin.smarttrot.com/index.php/api`, <br>
-但如果复制不行，可以试试这几个：`https://plugin.smarttrot.com/index.php/api/v1`, <br>
-或者可以试试使用完整的地址：`https://plugin.smarttrot.com/index.php/api/v1/chat/completions`, <br>
-一般来说，这几个地址总有能成功的。如果还是不行，请联系我们来支持。 <br>
-
-- **公司官网在哪里？**   
- 智增增是北京思码创特科技有限公司旗下品牌 ，专注打造企业从研发到营销的一站式AI赋能平台，致力于让AI真正成为企业的生产力工具。<br>
- 官网地址：http://zhizengzeng.com/ <br>
-
-- **有没有示例插件的访问地址？**   
- 1、chatgpt-next-web，最好下载安装一个软件包来访问，这里是下载地址（请选择适合你的电脑操作系统的版本）： https://gitee.com/smarttrot/chatgpt-plugin-key/tree/main/chat-next-web <br>
-当然也可以直接使用网页版：https://nb.nextweb.fun/#/chat <br>
- 2、chatbox，最好下载安装一个软件包来访问，这是下载地址：https://chatboxai.app/zh#download <br>
-
-- **不会配置怎么办？**   
- 在上面的公众号里面有客服的二维码，可以添加客服，客服手把手教你配置<br>
-
