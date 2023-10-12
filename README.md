@@ -34,9 +34,9 @@
 
 然后打开ChatGPT的插件：<br>
 1、在设置openai key的地方，替换为：上面拿到的key <br>
-2、在设置openai url的地方，替换为：`https://plugin.smarttrot.com/index.php/api/v1`，<br>
-这里有个点要注意，有的插件可能是：`https://plugin.smarttrot.com/index.php/api` ，（即将url后面的v1去掉，可以自己试一下）<br>
-有的插件可能要写全是：`https://plugin.smarttrot.com/index.php/api/v1/chat/completions` <br>
+2、在设置openai url的地方，替换为：`https://plugin.smarttrot.com`，<br>
+这里有个点要注意，有的插件可能是：`https://plugin.smarttrot.com/v1` ，（有的要在后面加一个v1，可以自己试一下）<br>
+有的插件可能要写全是：`https://plugin.smarttrot.com/v1/chat/completions` <br>
 ![chatgpt-next-web3](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/d4cf379a-cbb6-4cfa-b460-cee62ff71ab5)
 客户端推荐下载：
 https://gitee.com/smarttrot/chatgpt-plugin-key/tree/main/chat-next-web
