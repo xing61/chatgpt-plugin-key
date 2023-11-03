@@ -24,8 +24,6 @@
 - **产品地址**   
 1、目前支持移动端访问，扫描下面微信公众号：小一机器人，点击菜单“我是用户”》“Chat的插件”。从这里复制出key和url即可                  
  ![小一机器人-公众号二维码-small](https://github.com/xing61/xiaoyi-robot/assets/38256442/34775bf9-8a23-4bc8-8303-12ee3b1c1425)。        
-2、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：          
-![插件交流群企微码-small](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/75343aa9-6d23-40f4-8b48-42de92054ca4)
           
  
 - **典型用法**    
