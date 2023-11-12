@@ -19,10 +19,10 @@
   * 更多插件支持，敬请期待。也可直接向我们提交插件需求哦  
 
 - **注意事项**  
-  * 不是api，不是给写代码的用的，是给普通使用各类插件的用户使用的，如果希望通过代码调用api，可以看我们这个项目：https://github.com/xing61/xiaoyi-robot
+  * 不是api，不是给写代码的用的，是给普通使用各类插件的用户使用的，如果希望通过代码调用api，可以看我们[这个项目](https://github.com/xing61/xiaoyi-robot)
    
 - **产品地址**   
-1、目前支持移动端访问，扫描下面微信公众号：小一机器人，点击菜单“我是用户”》“Chat的插件”。从这里复制出key和url即可                  
+1、目前支持移动端访问，扫描下面微信公众号：智增增，点击菜单“我是用户”》“Chat的插件”。从这里复制出key和url即可                  
  ![小一机器人-公众号二维码-small](https://github.com/xing61/xiaoyi-robot/assets/38256442/34775bf9-8a23-4bc8-8303-12ee3b1c1425)。        
           
  
@@ -36,5 +36,5 @@
 这里有个点要注意，有的插件可能是：`https://plugin.smarttrot.com/v1` ，（有的要在后面加一个v1，可以自己试一下）<br>
 有的插件可能要写全是：`https://plugin.smarttrot.com/v1/chat/completions` <br>
 ![chatgpt-next-web3](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/d4cf379a-cbb6-4cfa-b460-cee62ff71ab5)
-客户端推荐下载：
-https://gitee.com/smarttrot/chatgpt-plugin-key/tree/main/chat-next-web
+客户端推荐：[下载地址](https://gitee.com/smarttrot/chatgpt-plugin-key/tree/main/chat-next-web)
+
