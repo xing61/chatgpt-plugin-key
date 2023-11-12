@@ -1,7 +1,7 @@
-chatbox的配置三步解决：<br>
-1、设置》选择openai <br>
-2、OpenAI的api key填写你在智增增后台手机号注册拿到的key <br>
-3、openai的base_url填写这个：`http://plugin.smarttrot.com/index.php/api` <br>
+配置两步解决：<br>
+1、OpenAI的api key填写你在智增增后台手机号注册拿到的key <br>
+2、openai的base_url填写这个：`https://plugin.smarttrot.com/` <br>
+
 如下图所示： <br>
 ![chatbox2](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/ac9d2cd7-798e-477e-a27c-5189be165a85)
 
