@@ -20,7 +20,7 @@
 
 - **注意事项**  
   * 不是api，不是给写代码的用的，是给普通使用各类插件的用户使用的，如果希望通过代码调用api，可以看我们[这个项目](https://github.com/xing61/xiaoyi-robot)
-  * 需要自己安装好想使用的插件，比如chatbox，CodeGPT，chatgpt-next-web等，推荐客户端：[下载地址](https://gitee.com/smarttrot/chatgpt-plugin-key/tree/main/chat-next-web)
+  * 第一步需要自己先安装好想使用的插件，比如chatgpt-next-web，chatbox，CodeGPT等，推荐客户端：[下载地址](https://gitee.com/smarttrot/zzz-files/tree/master/chat-next-web)
    
 - **产品地址**   
 1、目前支持移动端访问，扫描下面微信公众号：智增增，点击菜单“我是用户”》“Chat的插件”。从这里复制出key和url即可                  
