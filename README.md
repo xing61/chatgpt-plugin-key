@@ -28,11 +28,12 @@
           
  
 - **典型用法**    
-先复制出智增增的key和url：     
+第1步：需要自己先安装好一个想使用的AI软件，比如ChatGPT-Next-Web、沉浸式翻译、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等
+第2步：打开公众号：智增增，点击菜单“我是用户”》“Chat的插件”。先用自己的手机号登录，之后就能复制出智增增的key和url：     
 ![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/62bbbe95-ed52-42e8-afbd-9bc5965fad3f)    
 
-然后打开ChatGPT的插件：<br>
-1、在设置openai key的地方，替换为：上面拿到的key <br>
+第3步：然后打开ChatGPT的插件：<br>
+1、在设置openai key的地方，替换为：上面拿到的密钥key <br>
 2、在设置openai url的地方，替换为：`https://plugin.smarttrot.com`，<br>
 这里有个点要注意，有的插件可能是：`https://plugin.smarttrot.com/v1` ，（有的要在后面加一个v1，可以自己试一下）<br>
 有的插件可能要写全是：`https://plugin.smarttrot.com/v1/chat/completions` <br>
