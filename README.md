@@ -28,8 +28,8 @@
           
  
 - **典型用法**    
-第1步：需要自己先安装好一个想使用的AI软件，比如ChatGPT-Next-Web、沉浸式翻译、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等
-第2步：打开公众号：智增增，点击菜单“我是用户”》“Chat的插件”。先用自己的手机号登录，之后就能复制出智增增的key和url：     
+第1步：需要自己先安装好一个想使用的AI软件，比如ChatGPT-Next-Web、沉浸式翻译、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等 <br><br>
+第2步：打开公众号：智增增，点击菜单“我是用户”》“Chat的插件”。先用自己的手机号登录，之后就能复制出智增增的key和url：     <br>
 ![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/62bbbe95-ed52-42e8-afbd-9bc5965fad3f)    
 
 第3步：然后打开ChatGPT的插件：<br>
