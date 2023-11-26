@@ -14,7 +14,7 @@
   * 不用买openai的账号，不用美元的银行卡。 
   * 无需代理即可访问，没有任何的阻拦。  
   * 支持GPT-3.5，GPT-4    
-  * 最广泛的插件支持能力：Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT，chatgpt-next-web等各类大模型插件  
+  * 最广泛的插件支持能力：chatgpt-next-web，Chatbox，Sidebar，沉浸式翻译，ChatHub，CodeGPT等各类大模型插件  
   * 更多插件支持，敬请期待。也可直接向我们提交插件需求哦  
 
 - **注意事项**  
@@ -27,7 +27,7 @@
           
  
 - **典型用法**    
-第1步：需要自己先安装好一个想使用的AI软件，比如ChatGPT-Next-Web、沉浸式翻译、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等 <br><br>
+第1步：需要自己先安装好一个想使用的AI软件，比如ChatGPT-Next-Web、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等 <br><br>
 第2步：打开公众号：智增增，点击菜单“我是用户”》“Chat的插件”。先用自己的手机号登录，之后就能复制出智增增的key和url：     <br>
 ![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/62bbbe95-ed52-42e8-afbd-9bc5965fad3f)    
 
