@@ -22,9 +22,10 @@
   * 第一步需要自己先安装好想使用的插件，比如chatgpt-next-web，chatbox，CodeGPT等，推荐客户端：[下载地址](https://gitee.com/smarttrot/zzz-files/tree/master/chat-next-web)
    
 - **产品地址**   
-产品官方网址：http://plugin.smarttrot.com/#/home     
-智增增-专注国内使用ChatGPT的各种插件，登录后从这里复制出key和url即可              
-          
+1、产品官方网址：http://plugin.smarttrot.com/#/home     
+智增增-专注国内使用ChatGPT的各种插件，登录后从这里复制出key和url即可
+2、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：
+![1702372151600](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/82a32fe9-b758-45a7-b049-4a880475d320)      
  
 - **典型用法**
 
