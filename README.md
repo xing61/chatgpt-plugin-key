@@ -1,4 +1,4 @@
-# 智增增-专注国内使用ChatGPT的各种插件
+# 专注国内使用ChatGPT的各种插件，chatgpt中文版
 
 #### 介绍
 chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
