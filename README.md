@@ -1,7 +1,7 @@
 # 智增增-专注国内使用ChatGPT的各种插件
 
 #### 介绍
-不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
+chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
 智增增，专注支持ChatGPT的插件。提供国内稳定好用的chatgpt的key。openai的国内代理，提供ChatGPT的key，支持openai的key，支持：gpt-4，gpt-3.5。
 要买openai的key？<br>
 要买openai的账号？   <br>
