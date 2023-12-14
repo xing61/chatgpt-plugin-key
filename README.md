@@ -29,7 +29,7 @@ chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key�
  
 - **典型用法**
 
-https://github.com/xing61/chatgpt-plugin-key/assets/38256442/a0b2c69d-8647-4320-ab41-a16af748b921
+https://github.com/xing61/chatgpt-plugin-key/assets/38256442/66ba6142-cacf-442b-8d97-8d91225aecf5
 
 第1步：需要自己先安装好一个想使用的AI软件，比如ChatGPT-Next-Web、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等 <br><br>
 第2步：打开官方网址：http://plugin.smarttrot.com/#/home, 先用自己的手机号登录，之后就能复制出智增增的key和url：     <br>
