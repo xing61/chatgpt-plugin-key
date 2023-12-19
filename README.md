@@ -24,7 +24,7 @@ chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key�
 - **产品地址**   
 1、产品官方网址：http://plugin.smarttrot.com/#/home     <br>
 智增增-专注国内使用ChatGPT的各种AI工具，登录后从这里复制出key和url即可 <br>
-2、使用说明：https://docs.zhizengzeng.com/wen-zhang-lie-biao/chan-pin-shi-yong-shuo-ming-shu
+2、使用说明：https://docs.zhizengzeng.com/wen-zhang-lie-biao/chan-pin-shi-yong-shuo-ming-shu  <br>
 3、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：<br>
 ![1702372151600](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/82a32fe9-b758-45a7-b049-4a880475d320)      
  
