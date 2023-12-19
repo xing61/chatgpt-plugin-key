@@ -1,4 +1,4 @@
-# 专注国内使用ChatGPT的各种AI工具，chatgpt中文版
+# 专注支持国内使用ChatGPT的各种AI工具，chatgpt中文版
 
 #### 介绍
 chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
