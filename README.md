@@ -1,4 +1,4 @@
-# 专注支持国内使用ChatGPT的各种AI工具，chatgpt中文版
+# 专注国内使用ChatGPT的各种AI工具，智增增
 
 #### 介绍
 chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
@@ -26,7 +26,8 @@ chatgpt中文版，不用openai的key和url，直接提供国内稳定的的key�
 智增增-专注国内使用ChatGPT的各种AI工具，登录后从这里复制出key和url即可 <br>
 2、使用说明：https://docs.zhizengzeng.com/wen-zhang-lie-biao/chan-pin-shi-yong-shuo-ming-shu  <br>
 3、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：<br>
-![1702372151600](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/82a32fe9-b758-45a7-b049-4a880475d320)      
+ ![ai工具群二维码-不过期 198x198](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/49dea169-01c7-484f-95bc-c33ecbec8f7c)
+
  
 - **典型用法**
 
