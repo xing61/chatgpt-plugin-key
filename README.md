@@ -1,7 +1,7 @@
-# 专注支持ChatGPT的各种AI工具，chatgpt中文版，chatgpt国内替代
+# 专注支持ChatGPT的各种AI工具
 
 #### 介绍
-chatgpt中文版，chatgpt国内替代，不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。<br>
+不用openai的key和url，直接提供国内稳定的的key和url，通过这个key和url来访问chatgpt。chatgpt中文版，chatgpt国内替代<br>
 智增增，专注支持ChatGPT的各种AI工具。提供国内稳定好用的chatgpt的key。openai的国内代理，提供ChatGPT的key，支持openai的key，支持：gpt-4，gpt-3.5。
 要买openai的key？<br>
 要买openai的账号？   <br>
@@ -14,18 +14,17 @@ chatgpt中文版，chatgpt国内替代，不用openai的key和url，直接提供
   * 不用买openai的账号，不用美元的银行卡。 
   * 无需代理即可访问，没有任何的阻拦。  
   * 支持GPT-3.5，GPT-4    
-  * 最广泛的AI工具支持能力：chatgpt-next-web，Chatbox，Sidebar，沉浸式翻译，ChatHub，CodeGPT等各类大模型AI工具  
+  * 最广泛的AI工具支持能力：LobeChat，chatgpt-next-web，Chatbox，Sidebar，沉浸式翻译，ChatHub，CodeGPT等各类大模型AI工具  
   * 更多AI工具支持，敬请期待。也可直接向我们提交AI工具需求哦  
 
 - **注意事项**  
   * 不是api，不是给写代码的用的，是给普通使用各类AI工具的用户使用的，如果希望通过代码调用api，可以看我们[这个项目](https://github.com/xing61/xiaoyi-robot)
-  * 第一步需要自己先安装好想使用的AI工具，比如chatgpt-next-web，chatbox，sider，CodeGPT等，推荐客户端：[下载地址](https://gitee.com/smarttrot/zzz-files/tree/master/chat-next-web)
+  * 第一步需要自己先安装好想使用的AI工具，比如LobeChat，chatgpt-next-web，chatbox，sider，CodeGPT等，推荐客户端：[下载地址](https://gitee.com/smarttrot/zzz-files/tree/master/chat-next-web)
    
 - **产品地址**   
-1、产品官方网址：http://plugin.smarttrot.com/#/home     <br>
-智增增-专注国内使用ChatGPT的各种AI工具，登录后从这里复制出key和url即可 <br>
-2、使用说明：https://docs.zhizengzeng.com/wen-zhang-lie-biao/chan-pin-shi-yong-shuo-ming-shu  <br>
-3、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：<br>
+1、产品使用说明：https://zhizengzeng.com/939.html  <br>
+智增增-专注国内使用ChatGPT的各种AI工具，里面有个登录地址，登录后从这里复制出key和url即可 <br>
+2、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：<br>
  ![ai工具群二维码-不过期 198x198](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/49dea169-01c7-484f-95bc-c33ecbec8f7c)
 
  
