@@ -10,11 +10,12 @@
 通通不用的，直接配置这个智增增的key和url，非常简单，非常好用，非常稳定！！<br>
 
 - **项目主要优势**  
-  * 理论上只要是支持openai的AI工具，智增增都支持
+  * 理论上只要是支持openai的AI工具，智增增都支持.一个密钥，开启人工智能，畅享百款AI工具！
   * 不用买openai的账号，不用美元的银行卡。 
   * 无需代理即可访问，没有任何的阻拦。  
   * 支持GPT-3.5，GPT-4    
-  * 最广泛的AI工具支持能力：LobeChat，chatgpt-next-web，Chatbox，Sidebar，沉浸式翻译，ChatHub，CodeGPT等各类大模型AI工具  
+  * 最广泛的AI工具支持能力：LobeChat，chatgpt-next-web，Chatbox，Sidebar，沉浸式翻译，ChatHub，CodeGPT等各类大模型AI工具
+  * 同时性价比高，拥有包月套餐，无限畅享使用，送福利。  
   * 更多AI工具支持，敬请期待。也可直接向我们提交AI工具需求哦  
 
 - **注意事项**  
