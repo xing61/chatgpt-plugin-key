@@ -36,7 +36,7 @@
 https://github.com/xing61/chatgpt-plugin-key/assets/38256442/66ba6142-cacf-442b-8d97-8d91225aecf5
 
 第1步：需要自己先安装好一个想使用的AI工具，比如ChatGPT-Next-Web、Sidebar，沉浸式翻译，ChatHub，Chatbox，CodeGPT等 <br><br>
-第2步：打开官方网址：http://plugin.smarttrot.com/#/home, 先用自己的手机号登录，之后就能复制出智增增的key和url：     <br>
+第2步：打开官方网址：[http://plugin.smarttrot.com/#/home](http://plugin.smarttrot.com/#/home?from=github), 先用自己的手机号登录，之后就能复制出智增增的key和url：     <br>
 ![微信截图_20230915123515](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/62bbbe95-ed52-42e8-afbd-9bc5965fad3f)    
 
 第3步：然后打开安装的AI工具：<br>
