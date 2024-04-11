@@ -25,7 +25,8 @@
 1、产品使用说明：https://zhizengzeng.com/939.html  <br>
 智增增-专注国内使用ChatGPT的各种AI工具，里面有个登录地址，登录后从这里复制出key和url即可 <br>
 2、微信交流群（如果你也对本项目感兴趣，欢迎加入群聊参与讨论交流）：<br>
- ![ai工具群二维码-不过期 198x198](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/49dea169-01c7-484f-95bc-c33ecbec8f7c)
+![api交流群 4 11](https://github.com/xing61/chatgpt-plugin-key/assets/38256442/fc6e0fb2-e555-47de-b896-c847e929ba71)
+
 
  
 - **典型用法**
